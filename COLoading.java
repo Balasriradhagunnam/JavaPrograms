@@ -1,7 +1,7 @@
 import java.util.*;
 public class COLoading{
-    int rollno;
-    String name;
+    int a;
+    int b;
     COLoading(int a,int b)
     {
        System.out.println(a+b);
